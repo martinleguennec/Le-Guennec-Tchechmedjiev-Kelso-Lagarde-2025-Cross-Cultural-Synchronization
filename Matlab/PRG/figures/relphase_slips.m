@@ -20,11 +20,9 @@ function relphases_slips = relphase_slips(relphases)
 %   phase slips are not linked
 
 % Authors
-%   Martin Le Guennec - Univ. Montpellier - France
+%   XXX
 %
-% Versions
-%   Version 1.0.0 -- M. Le Guennec -- 2023-11-23
-%     First version
+
 
 %% Code
 phase_wrap = unwrap(relphases(:,1));
