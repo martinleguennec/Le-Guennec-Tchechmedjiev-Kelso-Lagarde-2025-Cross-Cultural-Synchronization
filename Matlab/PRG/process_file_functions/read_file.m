@@ -15,9 +15,9 @@ function [stim, mov] = read_file(path_file, samp_freq)
 % file, sampled at 5 kHz. Stimulus signal does not undergo any treatment.
 % Movement signal is downsampled to 500 Hz, low-pass filter and normalized.
 %
-% Version 1.0, aug. 2024 by Martin Le Guennec, tested with Matlab R2021b 
+% Version 1.0, aug. 2024 by XXX, tested with Matlab R2021b 
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 file_id = fopen(path_file);
 if file_id == -1

@@ -34,9 +34,9 @@ function process_plateau(plat_idx, num_plat, stim_struct, mov_phase_struct, info
 % identifies the time spent in flexion, in extension, or dwelling for each
 % movement.
 %
-% Version 1.1, Sep. 2024 by Martin Le Guennec, tested with Matlab R2021b 
+% Version 1.1, Sep. 2024 by XXX, tested with Matlab R2021b 
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 global tbl_relphase;
 

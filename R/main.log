@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.7)  9 NOV 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.7)  11 NOV 2025 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -481,7 +481,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count337
 ))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 144.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 143.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -490,24 +490,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
-LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -554,38 +554,38 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 144.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 146.
+Package hyperref Info: Link coloring OFF on input line 143.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 146.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 146.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 146.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 146.
+(Font)              <12> on input line 145.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 146.
+(Font)              <8> on input line 145.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 146.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 146.
+(Font)              <6> on input line 145.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 146.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 145.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 149.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 148.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.toc
@@ -610,41 +610,41 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout5 = `main.lot'.
 
 [3] [4{/Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 187.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 186.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 <Rmd_utils/relative_phase_radians.png, id=197, 1131.22626pt x 416.55624pt>
 File: Rmd_utils/relative_phase_radians.png Graphic file (type png)
 <use Rmd_utils/relative_phase_radians.png>
-Package pdftex.def Info: Rmd_utils/relative_phase_radians.png  used on input line 205.
+Package pdftex.def Info: Rmd_utils/relative_phase_radians.png  used on input line 204.
 (pdftex.def)             Requested size: 469.74359pt x 172.97566pt.
 [5{/Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Rmd_utils/relative_phase_radians.png>]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 231.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 230.
 (/Users/martinleguennec/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [6{/Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}] [7]
 <main_files/figure-latex/plt-nb-sync-trials-1.pdf, id=228, 712.6625pt x 627.34375pt>
 File: main_files/figure-latex/plt-nb-sync-trials-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-nb-sync-trials-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-nb-sync-trials-1.pdf  used on input line 299.
+Package pdftex.def Info: main_files/figure-latex/plt-nb-sync-trials-1.pdf  used on input line 298.
 (pdftex.def)             Requested size: 281.85202pt x 248.10916pt.
 [8]
-LaTeX Font Info:    Calculating math sizes for size <16> on input line 310.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 309.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <16> on input line 310.
+(Font)              <16> on input line 309.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <11.19995> on input line 310.
+(Font)              <11.19995> on input line 309.
 <main_files/figure-latex/plt-freqmis-1.pdf, id=238, 1074.0125pt x 627.34375pt>
 File: main_files/figure-latex/plt-freqmis-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-freqmis-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-freqmis-1.pdf  used on input line 320.
+Package pdftex.def Info: main_files/figure-latex/plt-freqmis-1.pdf  used on input line 319.
 (pdftex.def)             Requested size: 469.7482pt x 274.38564pt.
 [9 <./main_files/figure-latex/plt-nb-sync-trials-1.pdf>] [10 <./main_files/figure-latex/plt-freqmis-1.pdf>]
 <main_files/figure-latex/lmm-freqmis-assumptions-1.pdf, id=272, 1063.975pt x 626.34pt>
 File: main_files/figure-latex/lmm-freqmis-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-freqmis-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-freqmis-assumptions-1.pdf  used on input line 352.
+Package pdftex.def Info: main_files/figure-latex/lmm-freqmis-assumptions-1.pdf  used on input line 351.
 (pdftex.def)             Requested size: 375.80617pt x 221.22928pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -659,24 +659,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-disp-rad-ms-1.pdf, id=313, 857.2025pt x 509.905pt>
 File: main_files/figure-latex/plt-disp-rad-ms-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-disp-rad-ms-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-disp-rad-ms-1.pdf  used on input line 484.
+Package pdftex.def Info: main_files/figure-latex/plt-disp-rad-ms-1.pdf  used on input line 483.
 (pdftex.def)             Requested size: 375.80997pt x 223.54971pt.
 <main_files/figure-latex/plt-evolution-sd-1.pdf, id=314, 1074.0125pt x 627.34375pt>
 File: main_files/figure-latex/plt-evolution-sd-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-evolution-sd-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-evolution-sd-1.pdf  used on input line 495.
+Package pdftex.def Info: main_files/figure-latex/plt-evolution-sd-1.pdf  used on input line 494.
 (pdftex.def)             Requested size: 469.7482pt x 274.38564pt.
 [14 <./main_files/figure-latex/plt-disp-rad-ms-1.pdf>] [15 <./main_files/figure-latex/plt-evolution-sd-1.pdf>]
 <main_files/figure-latex/lmm-msf-assumptions-1.pdf, id=349, 1053.9375pt x 626.34pt>
 File: main_files/figure-latex/lmm-msf-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-msf-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-msf-assumptions-1.pdf  used on input line 526.
+Package pdftex.def Info: main_files/figure-latex/lmm-msf-assumptions-1.pdf  used on input line 525.
 (pdftex.def)             Requested size: 375.8149pt x 223.34142pt.
 [16 <./main_files/figure-latex/lmm-msf-assumptions-1.pdf>] [17]
 <main_files/figure-latex/lmm-sfc-assumptions-1.pdf, id=379, 1056.94875pt x 626.34pt>
 File: main_files/figure-latex/lmm-sfc-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sfc-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sfc-assumptions-1.pdf  used on input line 590.
+Package pdftex.def Info: main_files/figure-latex/lmm-sfc-assumptions-1.pdf  used on input line 589.
 (pdftex.def)             Requested size: 375.80809pt x 222.70108pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -684,13 +684,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-msf-sfc-1.pdf, id=383, 1074.0125pt x 623.32875pt>
 File: main_files/figure-latex/plt-msf-sfc-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-msf-sfc-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-msf-sfc-1.pdf  used on input line 644.
+Package pdftex.def Info: main_files/figure-latex/plt-msf-sfc-1.pdf  used on input line 643.
 (pdftex.def)             Requested size: 469.7482pt x 272.62956pt.
 [18 <./main_files/figure-latex/lmm-sfc-assumptions-1.pdf>] [19 <./main_files/figure-latex/plt-msf-sfc-1.pdf>]
 <main_files/figure-latex/plt-mean-async-1.pdf, id=426, 857.2025pt x 496.85625pt>
 File: main_files/figure-latex/plt-mean-async-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-mean-async-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-mean-async-1.pdf  used on input line 663.
+Package pdftex.def Info: main_files/figure-latex/plt-mean-async-1.pdf  used on input line 662.
 (pdftex.def)             Requested size: 422.77966pt x 245.05379pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -699,7 +699,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/lmm-meanasync-assumptions-1.pdf, id=447, 1065.9825pt x 626.34pt>
 File: main_files/figure-latex/lmm-meanasync-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-meanasync-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-assumptions-1.pdf  used on input line 695.
+Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-assumptions-1.pdf  used on input line 694.
 (pdftex.def)             Requested size: 375.79955pt x 220.80876pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -713,37 +713,37 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-mean-async-evol-1.pdf, id=452, 712.6625pt x 560.0925pt>
 File: main_files/figure-latex/plt-mean-async-evol-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-mean-async-evol-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-mean-async-evol-1.pdf  used on input line 773.
+Package pdftex.def Info: main_files/figure-latex/plt-mean-async-evol-1.pdf  used on input line 772.
 (pdftex.def)             Requested size: 281.85202pt x 221.51186pt.
 <main_files/figure-latex/plt-mean-async-comparison-1.pdf, id=453, 1069.9975pt x 525.965pt>
 File: main_files/figure-latex/plt-mean-async-comparison-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-mean-async-comparison-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-mean-async-comparison-1.pdf  used on input line 782.
+Package pdftex.def Info: main_files/figure-latex/plt-mean-async-comparison-1.pdf  used on input line 781.
 (pdftex.def)             Requested size: 469.75543pt x 230.91167pt.
 [21 <./main_files/figure-latex/lmm-meanasync-assumptions-1.pdf>] [22 <./main_files/figure-latex/plt-mean-async-evol-1.pdf> <./main_files/figure-latex/plt-mean-async-comparison-1.pdf>] [23]
 <main_files/figure-latex/plt-nbplats-nma-trials-1.pdf, id=511, 706.64pt x 568.1225pt>
 File: main_files/figure-latex/plt-nbplats-nma-trials-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-nbplats-nma-trials-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-nbplats-nma-trials-1.pdf  used on input line 817.
+Package pdftex.def Info: main_files/figure-latex/plt-nbplats-nma-trials-1.pdf  used on input line 816.
 (pdftex.def)             Requested size: 281.85309pt x 226.60347pt.
 [24 <./main_files/figure-latex/plt-nbplats-nma-trials-1.pdf>]
 <main_files/figure-latex/plt-dist-meanasync-subj-1.pdf, id=525, 1077.02374pt x 534.99875pt>
 File: main_files/figure-latex/plt-dist-meanasync-subj-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-dist-meanasync-subj-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-dist-meanasync-subj-1.pdf  used on input line 835.
+Package pdftex.def Info: main_files/figure-latex/plt-dist-meanasync-subj-1.pdf  used on input line 834.
 (pdftex.def)             Requested size: 469.75053pt x 233.34299pt.
 [25 <./main_files/figure-latex/plt-dist-meanasync-subj-1.pdf>]
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 844.
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 843.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <13> on input line 844.
+(Font)              <13> on input line 843.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9.09996> on input line 844.
+(Font)              <9.09996> on input line 843.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6.5> on input line 844.
+(Font)              <6.5> on input line 843.
 <main_files/figure-latex/plt-sd-relphase-sync-1.pdf, id=540, 1074.0125pt x 632.3625pt>
 File: main_files/figure-latex/plt-sd-relphase-sync-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-sd-relphase-sync-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-sd-relphase-sync-1.pdf  used on input line 850.
+Package pdftex.def Info: main_files/figure-latex/plt-sd-relphase-sync-1.pdf  used on input line 849.
 (pdftex.def)             Requested size: 469.7482pt x 276.58072pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -751,18 +751,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf, id=542, 1074.0125pt x 951.555pt>
 File: main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf  used on input line 886.
+Package pdftex.def Info: main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf  used on input line 885.
 (pdftex.def)             Requested size: 375.79529pt x 332.9476pt.
 [26 <./main_files/figure-latex/plt-sd-relphase-sync-1.pdf>] [27] [28 <./main_files/figure-latex/lmm-sd-relphase-assumptions-1.pdf>]
 <main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf, id=589, 1067.99pt x 626.34pt>
 File: main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf  used on input line 967.
+Package pdftex.def Info: main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf  used on input line 966.
 (pdftex.def)             Requested size: 375.80653pt x 220.39781pt.
 <main_files/figure-latex/lmm-rl-in-assumptions-1.pdf, id=590, 1063.975pt x 626.34pt>
 File: main_files/figure-latex/lmm-rl-in-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-rl-in-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-rl-in-assumptions-1.pdf  used on input line 976.
+Package pdftex.def Info: main_files/figure-latex/lmm-rl-in-assumptions-1.pdf  used on input line 975.
 (pdftex.def)             Requested size: 375.80617pt x 221.22928pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -773,18 +773,18 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-rl-1.pdf, id=596, 1074.0125pt x 627.34375pt>
 File: main_files/figure-latex/plt-rl-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-rl-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-rl-1.pdf  used on input line 1033.
+Package pdftex.def Info: main_files/figure-latex/plt-rl-1.pdf  used on input line 1032.
 (pdftex.def)             Requested size: 469.7482pt x 274.38564pt.
 [29] [30 <./main_files/figure-latex/lmm-rl-fr-assumptions-1.pdf> <./main_files/figure-latex/lmm-rl-in-assumptions-1.pdf>] [31 <./main_files/figure-latex/plt-rl-1.pdf>] [32]
 <main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf, id=657, 1067.99pt x 626.34pt>
 File: main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf  used on input line 1063.
+Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf  used on input line 1062.
 (pdftex.def)             Requested size: 375.80653pt x 220.39781pt.
 <main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf, id=658, 1067.99pt x 626.34pt>
 File: main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf  used on input line 1072.
+Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf  used on input line 1071.
 (pdftex.def)             Requested size: 375.80653pt x 220.39781pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -795,21 +795,21 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-sd-phi-msf-1.pdf, id=664, 1074.0125pt x 627.34375pt>
 File: main_files/figure-latex/plt-sd-phi-msf-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-sd-phi-msf-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-sd-phi-msf-1.pdf  used on input line 1129.
+Package pdftex.def Info: main_files/figure-latex/plt-sd-phi-msf-1.pdf  used on input line 1128.
 (pdftex.def)             Requested size: 469.7482pt x 274.38564pt.
 [33 <./main_files/figure-latex/lmm-sd-phi-msf-fr-assumptions-1.pdf>] [34 <./main_files/figure-latex/lmm-sd-phi-msf-in-assumptions-1.pdf> <./main_files/figure-latex/plt-sd-phi-msf-1.pdf>]
 <main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf, id=711, 1073.00874pt x 626.34pt>
 File: main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf  used on input line 1157.
+Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf  used on input line 1156.
 (pdftex.def)             Requested size: 375.80428pt x 219.36563pt.
 <main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf, id=712, 1060.96375pt x 626.34pt>
 File: main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf  used on input line 1166.
+Package pdftex.def Info: main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf  used on input line 1165.
 (pdftex.def)             Requested size: 375.81104pt x 221.86005pt.
 
-LaTeX Warning: Reference `tab:lmm-sd-phi-sfc-ranef' on page 35 undefined on input line 1177.
+LaTeX Warning: Reference `tab:lmm-sd-phi-sfc-ranef' on page 35 undefined on input line 1176.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -820,24 +820,24 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <main_files/figure-latex/plt-sd-phi-sfc-1.pdf, id=717, 1074.0125pt x 627.34375pt>
 File: main_files/figure-latex/plt-sd-phi-sfc-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-sd-phi-sfc-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-sd-phi-sfc-1.pdf  used on input line 1223.
+Package pdftex.def Info: main_files/figure-latex/plt-sd-phi-sfc-1.pdf  used on input line 1222.
 (pdftex.def)             Requested size: 469.7482pt x 274.38564pt.
 [35] [36 <./main_files/figure-latex/lmm-sd-phi-sfc-fr-assumptions-1.pdf> <./main_files/figure-latex/lmm-sd-phi-sfc-in-assumptions-1.pdf>] [37]
 <main_files/figure-latex/plt-criteria-max-freqmis-1.pdf, id=761, 1074.0125pt x 518.93875pt>
 File: main_files/figure-latex/plt-criteria-max-freqmis-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/plt-criteria-max-freqmis-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/plt-criteria-max-freqmis-1.pdf  used on input line 1272.
+Package pdftex.def Info: main_files/figure-latex/plt-criteria-max-freqmis-1.pdf  used on input line 1271.
 (pdftex.def)             Requested size: 469.7482pt x 226.9718pt.
 [38 <./main_files/figure-latex/plt-sd-phi-sfc-1.pdf>] [39 <./main_files/figure-latex/plt-criteria-max-freqmis-1.pdf>]
 <main_files/figure-latex/lmm-meanasync-freqmis-fr-assumptions-1.pdf, id=796, 1077.02374pt x 626.34pt>
 File: main_files/figure-latex/lmm-meanasync-freqmis-fr-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-meanasync-freqmis-fr-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-freqmis-fr-assumptions-1.pdf  used on input line 1319.
+Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-freqmis-fr-assumptions-1.pdf  used on input line 1318.
 (pdftex.def)             Requested size: 375.79713pt x 218.54372pt.
 <main_files/figure-latex/lmm-meanasync-freqmis-in-assumptions-1.pdf, id=797, 1053.9375pt x 626.34pt>
 File: main_files/figure-latex/lmm-meanasync-freqmis-in-assumptions-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/lmm-meanasync-freqmis-in-assumptions-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-freqmis-in-assumptions-1.pdf  used on input line 1328.
+Package pdftex.def Info: main_files/figure-latex/lmm-meanasync-freqmis-in-assumptions-1.pdf  used on input line 1327.
 (pdftex.def)             Requested size: 375.8149pt x 223.34142pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -857,13 +857,13 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  15366 strings out of 468867
  256171 string characters out of 5445575
- 679501 words of memory out of 5000000
+ 679353 words of memory out of 5000000
  43563 multiletter control sequences out of 15000+600000
  759423 words of font info for 128 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  89i,11n,93p,1869b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri7.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/martinleguennec/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on main.pdf (44 pages, 2334684 bytes).
+Output written on main.pdf (44 pages, 2331492 bytes).
 PDF statistics:
  1137 PDF objects out of 1200 (max. 8388607)
  953 compressed objects within 10 object streams

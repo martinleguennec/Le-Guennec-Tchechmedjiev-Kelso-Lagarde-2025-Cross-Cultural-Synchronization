@@ -30,9 +30,6 @@ function DT = dwell_time(phase_osc, threshold)
 %       This code was initially created for this article
 %
 % Original version by Julien Lagarde, documented and tested aug. 2024 by
-% Martin Le Guennec with Matlab R2021b (9.11.0.1769968) running on a maci64
-% computer
-% Contact: martin.leguennec@gmail.com
 
 % Compute the difference of the phase oscillation
 diff_phase_rel = diff(phase_osc);

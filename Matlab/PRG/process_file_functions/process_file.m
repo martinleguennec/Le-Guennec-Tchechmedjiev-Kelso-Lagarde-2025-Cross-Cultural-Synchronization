@@ -10,9 +10,9 @@ function process_file(files, file_idx, subj, group)
 % This function loops through each file in the subject's directory,
 % processes the data, and stores it in the global structure.
 %
-% Version 1.1, Sep. 2024 by Martin Le Guennec, tested with Matlab R2021b
+% Version 1.1, Sep. 2024 by XXX, tested with Matlab R2021b
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 global SAMP_FREQ_STIM SAMP_FREQ_MOV;
 

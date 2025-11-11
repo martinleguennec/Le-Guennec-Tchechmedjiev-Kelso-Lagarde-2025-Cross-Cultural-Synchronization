@@ -30,9 +30,9 @@ function [peaks, relphases, relphases_unwrap] = compute_relphase(mov, subject, t
 % is the time difference between peak onset and stimulus onset and P is the
 % time period between the two stimuli surrounding the peak.
 %
-% Version 1.0, aug. 2024 by Martin Le Guennec, tested with Matlab R2021b 
+% Version 1.0, aug. 2024 by XXX, tested with Matlab R2021b 
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 peaks = [];
 threshold = 65;
@@ -91,8 +91,8 @@ end
 function peaks = peak_identification(mov, stim_plat_indices, stim, threshold, min_sum)
 % PEAK_IDENTIFICATION Identifies peak flexion moments with exclusion of erroneously detected peaks.
 %
-% Author: Martin Le Guennec - Univ. Montpellier - France
-%         martin.leguennec@gmail.com
+% Author: XXX
+%        
 %
 % INPUTS:
 %   mov - Array, size N-by-2, first column for the N movement values,

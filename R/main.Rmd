@@ -1,6 +1,5 @@
 ---
 title: "Qualitative and Statistical Analysis"
-author: "Martin Le Guennec"
 date: "`r Sys.Date()`"
 output:
   bookdown::pdf_document2: 

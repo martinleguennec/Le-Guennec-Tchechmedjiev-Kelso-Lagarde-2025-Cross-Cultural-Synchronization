@@ -17,9 +17,9 @@ function [plat_beg, plat_end] = determine_plat_bounds(i_plat, stim, stim_plat_in
 % The function determines the start and end of each plateau based on the
 % stimulli and the indices of the plateaus.
 %
-% Version 1.0, aug. 2024 by Martin Le Guennec, tested with Matlab R2021b 
+% Version 1.0, aug. 2024 by XXX, tested with Matlab R2021b 
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 if i_plat == 1
     plat_beg = stim(stim_plat_indices(i_plat, 1)) - 0.5;

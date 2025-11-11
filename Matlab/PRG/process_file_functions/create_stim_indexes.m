@@ -22,9 +22,9 @@ function [stim_times, stim_plat_indices, num_plat] = create_stim_indexes(stim_si
 % containing the indices of the stimulus at the beginnind and ending of
 % each plateau with the number of plateaus varying depending on the task.
 %
-% Version 1.0, aug. 2024 by Martin Le Guennec, tested with Matlab R2021b 
+% Version 1.0, aug. 2024 by XXX, tested with Matlab R2021b 
 % (9.11.0.1769968) running on a maci64 computer
-% Contact: martin.leguennec@gmail.com
+% Contact: XXX
 
 
 % Identify stimuli indexes

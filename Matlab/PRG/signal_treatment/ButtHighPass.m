@@ -20,14 +20,8 @@ function signalFiltered = ButtHighPass(sampFreq, cutoffFreq, signal)
 
     
     % Authors
-    %   Julien Lagarde - Univ. Montpellier - France
-    %   Martin Le Guennec - Univ. Montpellier - France
-    %
-    % Versions
-    %   Version 1.0.0 -- J. Lagarde -- 
-    %     First version
-    %   Version 1.0.1 -- M. Le Guennec -- 2023-05-03
-    %     Add the documentation
+    %   XXX
+  
 
 
     
