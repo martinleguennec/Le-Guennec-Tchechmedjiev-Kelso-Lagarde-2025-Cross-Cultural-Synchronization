@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository contains the data and code used in the analysis for the article:
-
-> Le Guennec, M., Tchechmedjiev, A., Kelso, J. A. S., & Lagarde, J. (2025). Universal and Cross-Cultural Variations in Audio-Motor Synchronization Between French and Indian Participants.
+This repository contains the data and code used in the analysis for the article: XXX
 
 ## Repository Structure
 
@@ -131,4 +129,4 @@ The codes were written using R version 4.3.2 on RStudio version 2024.12.1. The r
 
 If you use this code or data, please cite:
 
-Le Guennec, M., Tchechmedjiev, A., Kelso, J. A. S., & Lagarde, J. (2025). Universal and Cross-Cultural Variations in Audio-Motor Synchronization Between French and Indian Participants.
+XXX
